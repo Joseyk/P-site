@@ -143,3 +143,6 @@ a:hover{
     padding: 20px 0;
     line-height: 1.5;
 }
+::-webkit-scrollbar {
+    display: none;
+}
